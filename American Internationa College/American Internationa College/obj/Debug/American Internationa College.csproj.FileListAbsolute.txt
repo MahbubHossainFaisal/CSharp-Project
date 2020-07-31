@@ -1,0 +1,10 @@
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\bin\Debug\American Internationa College.exe.config
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\bin\Debug\American Internationa College.exe
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\bin\Debug\American Internationa College.pdb
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American Internationa College.csprojAssemblyReference.cache
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Form1.resources
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.Properties.Resources.resources
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American Internationa College.csproj.GenerateResource.cache
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American Internationa College.exe
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American Internationa College.pdb
+E:\AIUB SIXTH SEMESTER\PROBLEM SOLVING\Learning WFA\American Internationa College\American Internationa College\obj\Debug\American_Internationa_College.RegistrationForm.resources
